@@ -1,3 +1,17 @@
+
+<#
+    Extraction et Transformation des Données JSON en CSV
+
+    Ce script lit les fichiers JSON téléchargés depuis l'API Pappers et extrait les informations pertinentes.
+    Il convertit les données JSON en fichiers CSV structurés pour une utilisation facile.
+
+    @package PappersToCSV
+    @file ExtractData.ps1
+    @version 1.0
+    @update 2024-05-22
+    @autor Eric Guiffault
+#>
+
 # Chemin du dossier contenant les fichiers JSON et du dossier de sortie
 $inputDir = "C:\Users\Eric\Documents\_Societes\Outputs\RawData"
 $outputDir = "C:\Users\Eric\Documents\_Societes\Outputs\CSVs"
