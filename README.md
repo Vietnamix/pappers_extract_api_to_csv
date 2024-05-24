@@ -18,9 +18,15 @@ Utilisation
 Télécharger les Données
 Exécutez le script de téléchargement pour récupérer les données des SIRENs listés dans siren.csv :
 
+```markdown
+Voici un exemple de code intégré : `Write-Host "Hello, World!"`.
+
 ```powershell
 # Exécutez le script de téléchargement pour récupérer les données des SIRENs listés dans siren.csv :
 .\DownloadData.ps1
+
+```markdown
+Voici un exemple de code intégré : `Write-Host "Hello, World!"`.
 
 ###Convertir en CSV
 Traitez les fichiers JSON téléchargés en fichiers CSV :
