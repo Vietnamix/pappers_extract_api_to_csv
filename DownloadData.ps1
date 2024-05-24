@@ -1,5 +1,5 @@
 # Chemin du fichier d'entrée contenant les SIRENs et le dossier de sortie pour les fichiers JSON
-$inputFile = "C:\Users\Eric\Documents\_Societes\input_siren.csv"
+$inputFile = "C:\Users\Eric\Documents\_Societes\Sirens.csv"
 $outputDir = "C:\Users\Eric\Documents\_Societes\Outputs\RawData"
 
 # Vérification de l'existence du fichier d'entrée
