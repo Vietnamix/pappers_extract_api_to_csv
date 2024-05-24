@@ -30,6 +30,7 @@ Exécutez le script de téléchargement pour récupérer les données des SIRENs
 
 ```markdown
 Voici un exemple de code intégré : `Write-Host "Hello, World!"`.
+```
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
