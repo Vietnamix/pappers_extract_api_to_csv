@@ -22,6 +22,7 @@ Exécutez le script de téléchargement pour récupérer les données des SIRENs
 ```powershell
 # Exécutez le script de téléchargement pour récupérer les données des SIRENs listés dans siren.csv :
 .\DownloadData.ps1
+```
 
 ### Test
 
