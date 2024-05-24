@@ -40,17 +40,7 @@ Chacun des fichiers CSV suivants contient des données spécifiques extraites de
 * Representants.csv : Informations sur les représentants légaux et leur autorité au sein de l'entreprise.
 * Successeurs.csv : Enregistrements des événements de succession d'entreprise et des changements d'entité pertinents.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Remplacez le chemin des fichiers .ps1 dans les scripts par le bon emplacement : C:\Users\Eric\Documents\_Societes\
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+Enjoy, c'est open source 😉👍
