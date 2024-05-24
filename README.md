@@ -15,8 +15,8 @@ Ce projet basé sur PowerShell automatise l'extraction de données d'entreprise 
 * ExtractData.ps1 : Convertit les fichiers JSON en format CSV.
 * Sirens.csv : Contient les numéros SIREN des entreprises à extraire.
 
-###Utilisation
-Télécharger les Données
+### Utilisation
+## Télécharger les Données
 Exécutez le script de téléchargement pour récupérer les données des SIRENs listés dans siren.csv :
 
 ```powershell
