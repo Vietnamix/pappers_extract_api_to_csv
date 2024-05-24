@@ -19,9 +19,6 @@ siren.csv : Contient les numéros SIREN des entreprises à extraire.
 Télécharger les Données
 Exécutez le script de téléchargement pour récupérer les données des SIRENs listés dans siren.csv :
 
-```markdown
-Voici un exemple de code intégré : `Write-Host "Hello, World!"`.
-
 ```powershell
 # Exécutez le script de téléchargement pour récupérer les données des SIRENs listés dans siren.csv :
 .\DownloadData.ps1
@@ -32,3 +29,18 @@ Voici un exemple de code intégré : `Write-Host "Hello, World!"`.
 
 ```markdown
 Voici un exemple de code intégré : `Write-Host "Hello, World!"`.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
