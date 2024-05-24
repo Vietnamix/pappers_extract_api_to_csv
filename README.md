@@ -44,3 +44,4 @@ Chacun des fichiers CSV suivants contient des données spécifiques extraites de
 > Remplacez le chemin des fichiers .ps1 dans les scripts par le bon emplacement : C:\Users\Eric\Documents\_Societes\
 
 Enjoy, c'est open source 😉👍
+Eric Guiffault
