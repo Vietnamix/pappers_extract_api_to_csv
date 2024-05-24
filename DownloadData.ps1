@@ -1,3 +1,16 @@
+<#
+    Extraction de Données depuis l'API Pappers
+
+    Ce script télécharge des fichiers JSON depuis l'API Pappers pour les SIRENs listés dans le fichier CSV d'entrée.
+    Les fichiers JSON sont stockés dans un dossier spécifié.
+
+    @package PappersToCSV
+    @file DownloadData.ps1
+    @version 1.0
+    @update 2024-05-22
+    @autor Eric Guiffault
+#>
+
 # Chemin du fichier d'entrée contenant les SIRENs et le dossier de sortie pour les fichiers JSON
 $inputFile = "C:\Users\Eric\Documents\_Societes\Sirens.csv"
 $outputDir = "C:\Users\Eric\Documents\_Societes\Outputs\RawData"
